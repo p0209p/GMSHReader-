@@ -2,7 +2,7 @@
 A fast and efficient code for reading [GMSH](https://gmsh.info/) msh2 format triangular meshes. 
 
 ## Features
-1. The code uses only inbuilt C++ functios and headers. 
+1. The code uses only inbuilt C++ functions and headers. 
 2. The connectivity matrix is stored in `size_t` array, which can be used with domain decomposition libraries (for instance [METIS](https://github.com/KarypisLab/METIS))
 
 ### MSH2 Generation
